@@ -1,0 +1,4 @@
+Her ikisi eyni isi gorur - Yuksek seviyyeli dilde olan kodu (c++, java, php ve s.) masin diline cevirib emrleri icra etmek. 
+Esas ferq odur ki, "compiler" butun kodu masin diline cevirir ve sonra masin bunu icra edir. "Interpreter" diller ise preproses xasselidir. Yeni once araliq dile cevrilme bas verir, daha sonra araliq dilden her bir emr ayrica masin diline cevrilerek icra edilir. Icra zamani xeta harda bas verse proqramin icrasi orda dayanir. Cunki her bir emr ayrica cevrilir ve icra edilir. "Compiler"- da ise butun yazilan kod birden cevrilir sonra icra edilir. Ona gore de "Compiler" ile cevrilme zamani sehv varsa kodda, onda kod umumiyyetle islemir, daha "Interpreter" kimi mueyyen qeder isleyib, sehv olan yerde qirilmir.
+
+Qaynaq - https://cavablar.net/2014/05/16/interpret-olan-dill%C9%99r-il%C9%99-compile-olan-dill%C9%99r-arasinda-n%C9%99-f%C9%99rq-var/#.YDG27-hKiM8

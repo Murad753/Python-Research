@@ -1,0 +1,7 @@
+Interpretasiya olunan dil (en: Interpretered language) - esasen proqram telimatlarinin evvelceden masin koduna cevrilmeden birbasa ve azad sekilde icra edildiyi proqramlastirma dili tipidir. Interpretator yazilmis proqram kodlarini birbasa icra edir, bu zaman her bir proqram elementini bir ve ya daha cox altproqram-a tercume edir ve sonra basqa bir dile (adeten masin koduna).
+
+Interpretasiya olunan dil ve kompliyasiya olunan dil terminleri cox da yaxsi teyin edilmemisdir, cunki teoremde her hansi bir proqramlastirma dili her iki cur de tetbiq edile biler.  Muasir proqramlastirma dillerinin tetbiqinde bir platform ucun her iki secimin de tetbiq olunmasi artan sekilde meshurdur.
+
+Yaxsi taninmis Python (proqramlastirma dili), Ruby,, PHP, Javascript dilleri interpretasiya olunan dillerdir.
+
+Qaynaq - https://az.wikipedia.org/wiki/%C4%B0nterpretasiya_olunan_dil

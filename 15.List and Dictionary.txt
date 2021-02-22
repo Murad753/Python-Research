@@ -1,0 +1,6 @@
+Dictionary de list kimi mutable y?ni d?yisdiril? bil?ndir. Ancaq f?rqli olaraq dictionaryd? key value m?ntiqi isl?yir. Key ist?nil?n tipd? ola bil?r int string bool v? s. H?r key-in bir value d?y?ri olur. Key uniqe-dir y?ni t?krarlana bilm?z. Dictionay yaratmagin iki yolu var.
+1. dict sözü il?. a=dict( )
+2. { } il?. a={ }
+
+Biz Dictionary-i o vaxt istifade edirik ki, Misal uzerinden getsek: Tutalim bizim elimizde 2 - boyuk hecmli sened var ve bu senedin 1 - cisinin icerisinde Masin nomreleri siyahisi ve 2- cisinin icerisinde ise Masin Nomrelerinin kime adi oldugu gosterilir. Biz bunu Birlestirmek isteyirik ki, meselen 90-FN-972 nomresini yazdigimizda, Tural Memmedzade adi qarsimiza cixsin. Gorunduyu kimi biz bunu list yaxud da ki, tuple data tipi icerisinde yaza bilmerik. Yeni yazsaq bele cox ferqli ve cox uzun gedecek bir prosesdi nomreni yazib kiminse adini cixarmaq ucun uzun bir setirde kod yazmagimiza ehtiyac var. Buna gore de biz Dictionary tipinde yazmaga ustunluk veririk. Niye deye  sual meydana cixir. Cunki Dictionary data tipi: Key : Value deyerlerini ozune isetyir. Key dediyimiz hisseye oz seciminize uygun olaraq ad ve soyadi yazib masin nomresini cixarmaq isteirsizse, ad ve soyadi key hisseye, masin nomresini ise value hisseye integer tipinde elave etmeliyik. Yaxud da bunun tersinesi.
+
